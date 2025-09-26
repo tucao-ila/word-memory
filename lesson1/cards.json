@@ -1,24 +1,12 @@
 {
+  "backImageUrl": "https://tucao-ila.github.io/word-memory/lesson1/backcard.png",
+  "matchSfxUrl":  "https://tucao-ila.github.io/word-memory/lesson1/match.mp3",
+  "mismatchSfxUrl":"https://tucao-ila.github.io/word-memory/lesson1/mixmatch.mp3",
   "pairs": [
-    {
-      "image": "https://www.dropbox.com/scl/fi/spk3g60mutaiegw51xu3c/card1.png?rlkey=ace5ythfq1p61gjuqywak88wk&raw=1",
-      "audio": "https://www.dropbox.com/scl/fi/dqouu9x1k0si6vrm36dyx/audio1.mp3?rlkey=6lukcdp5aa8c2laezektzitez&raw=1"
-    },
-    {
-      "image": "https://www.dropbox.com/scl/fi/7viops9825ibr6rlbcw4h/card2.png?rlkey=sz8n726fgioe2axcf8uicuqyd&raw=1",
-      "audio": "https://www.dropbox.com/scl/fi/41sr4cml303kv2fwvfe9w/audio2.mp3?rlkey=2mht0mvcg45fc9dc9rb6za9ap&raw=1"
-    },
-    {
-      "image": "https://www.dropbox.com/scl/fi/98scykxlwgy7jt48uhgpk/card3.png?rlkey=v2wo3175bwb61qgqmvkg37q86&raw=1",
-      "audio": "https://www.dropbox.com/scl/fi/xsoyz2ugh5pmts6m03ot1/audio3.mp3?rlkey=7zrmr828qt2msvi9mekw1csh3&raw=1"
-    },
-    {
-      "image": "https://www.dropbox.com/scl/fi/5bm27ajunqsklqyc2krbn/card4.png?rlkey=hc7x68ndb0qonyt5er9ucugxg&raw=1",
-      "audio": "https://www.dropbox.com/scl/fi/o25nmwisw6fnu3kufdag4/audio4.mp3?rlkey=cjdwypzf98abkqz96pibps7kg&raw=1"
-    },
-    {
-      "image": "https://www.dropbox.com/scl/fi/nam1a6dkwppca7zv6q8bf/card5.png?rlkey=z0r4anjx5yjfc0z0hvp899y5i&raw=1",
-      "audio": "https://www.dropbox.com/scl/fi/eiy4tww0yk35t42z4t68e/audio5.mp3?rlkey=wtcw6r36xbq46k0tv6uphngu7&raw=1"
-    }
+    { "id": 0, "imageUrl": "https://tucao-ila.github.io/word-memory/lesson1/card1.png", "audioUrl": "https://tucao-ila.github.io/word-memory/lesson1/audio1.mp3" },
+    { "id": 1, "imageUrl": "https://tucao-ila.github.io/word-memory/lesson1/card2.png", "audioUrl": "https://tucao-ila.github.io/word-memory/lesson1/audio2.mp3" },
+    { "id": 2, "imageUrl": "https://tucao-ila.github.io/word-memory/lesson1/card3.png", "audioUrl": "https://tucao-ila.github.io/word-memory/lesson1/audio3.mp3" },
+    { "id": 3, "imageUrl": "https://tucao-ila.github.io/word-memory/lesson1/card4.png", "audioUrl": "https://tucao-ila.github.io/word-memory/lesson1/audio4.mp3" },
+    { "id": 4, "imageUrl": "https://tucao-ila.github.io/word-memory/lesson1/card5.png", "audioUrl": "https://tucao-ila.github.io/word-memory/lesson1/audio5.mp3" }
   ]
 }
