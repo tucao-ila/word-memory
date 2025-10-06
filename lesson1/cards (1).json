@@ -1,0 +1,12 @@
+{
+  "backImageUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/backcard.png",
+  "matchSfxUrl":  "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/match.mp3",
+  "mismatchSfxUrl":"https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/mixmatch.mp3",
+  "pairs": [
+    { "id": 0, "imageUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/card1.png", "audioUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/audio1.mp3" },
+    { "id": 1, "imageUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/card2.png", "audioUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/audio2.mp3" },
+    { "id": 2, "imageUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/card3.png", "audioUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/audio3.mp3" },
+    { "id": 3, "imageUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/card4.png", "audioUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/audio4.mp3" },
+    { "id": 4, "imageUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/card5.png", "audioUrl": "https://contentdev.ila.edu.vn/content/other/gameapp/lessons/JS_N1_001/audio5.mp3" }
+  ]
+}
